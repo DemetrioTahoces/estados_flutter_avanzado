@@ -39,9 +39,9 @@ class InformacionUsuario extends StatelessWidget {
             style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
           ),
           Divider(),
-          ListTile(title: Text('Nombre: ')),
-          ListTile(title: Text('Nombre: ')),
-          ListTile(title: Text('Nombre: ')),
+          ListTile(title: Text('Profesión 1: ')),
+          ListTile(title: Text('Profesión 2: ')),
+          ListTile(title: Text('Profesión 3: ')),
         ],
       ),
     );
